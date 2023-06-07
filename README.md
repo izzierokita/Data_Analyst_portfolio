@@ -14,6 +14,8 @@ Where I shine the most is the technology sector. My dream job is joining a Softw
 ### 2. Python portfolio:
 #### Kaggle projects:
 - X_Education Exploratory Data Analysis [CASE 1](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/Python_portfolio/Kaggle/X_Education_EDA/x-education-case1.ipynb), CASE 2 (TBD), CASE 3 (TBD)
+#### Data Science Course projects:
+- Amazon Sales DataSet Data Analysis, Data Visualization and Machine Learning Regression Model building [LINK](Python_portfolio/Data_Science_bootcamp/amazon_sales_Data_Analysis_group_project.ipynb)
 ### 3. Data Visualization portfolio:
 #### Tableau:
 - X_Education CASE 1 Data Visualization using Tableau Public [LINK](https://public.tableau.com/views/X_Education_CASE1_Visualizations/X_Education_CASE1_Visualizations?:showVizHome=no)
