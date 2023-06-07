@@ -9,4 +9,15 @@ Where I shine the most is the technology sector. My dream job is joining a Softw
 **Inside this repository I store the projects showcasing my technical and analytical skills, which I could bring to my new workplace.**
 
 ## Table of content
-### TBD
+### 1. SQL portfolio:
+ - SQL for Data Science from UC Davis University [case study](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/SQL_portfolio/UCDavis_SQL_certificate_assignment_Izabela_Rokita/Yelp_dataset_profiling) ,  [certificate](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/SQL_portfolio/UCDavis_SQL_certificate_assignment_Izabela_Rokita/Coursera_SQL_Data_Science_Certificate_Izabela_Rokita.pdf)
+### 2. Python portfolio:
+#### Kaggle projects:
+- X_Education Exploratory Data Analysis [CASE 1](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/Python_portfolio/Kaggle/X_Education_EDA/x-education-case1.ipynb), CASE 2 (TBD), CASE 3 (TBD)
+### 3. Data Visualization portfolio:
+#### Tableau:
+- X_Education CASE 1 Data Visualization using Tableau Public [LINK](https://public.tableau.com/views/X_Education_CASE1_Visualizations/X_Education_CASE1_Visualizations?:showVizHome=no)
+
+
+
+
