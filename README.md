@@ -13,7 +13,7 @@ Where I shine the most is the technology sector. My dream job is joining a Softw
  - SQL for Data Science from UC Davis University [case study](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/SQL_portfolio/UCDavis_SQL_certificate_assignment_Izabela_Rokita/Yelp_dataset_profiling) ,  [certificate](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/SQL_portfolio/UCDavis_SQL_certificate_assignment_Izabela_Rokita/Coursera_SQL_Data_Science_Certificate_Izabela_Rokita.pdf)
 ### 2. Python portfolio:
 #### Kaggle projects:
-- X_Education Exploratory Data Analysis [CASE 1](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/Python_portfolio/Kaggle/X_Education_EDA/x-education-case1.ipynb), CASE 2 (TBD), CASE 3 (TBD)
+- X_Education Exploratory Data Analysis [CASE 1](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/Python_portfolio/Kaggle/X_Education_EDA/x-education-case1.ipynb), [CASE 2](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/Python_portfolio/Kaggle/X_Education_EDA/Identifying_target_personas_based_on_data.ipynb), CASE 3 (TBD)
 #### Data Science Course projects:
 - Amazon Sales DataSet Data Analysis, Data Visualization and Machine Learning Regression Model building [LINK](Python_portfolio/Data_Science_bootcamp/amazon_sales_Data_Analysis_group_project.ipynb)
 ### 3. Data Visualization portfolio:
