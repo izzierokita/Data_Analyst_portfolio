@@ -8,16 +8,22 @@ Where I shine the most are the tech B2B and SaaS sectors. I love being up to dat
 
 **Inside this repository I store the projects showcasing my technical and analytical skills, which I could bring to my new workplace.**
 
-## Table of content
-### 1. SQL portfolio:
+# Table of content
+
+
+## 1. SQL portfolio:
  - SQL for Data Science from UC Davis University [case study](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/SQL_portfolio/UCDavis_SQL_certificate_assignment_Izabela_Rokita/Yelp_dataset_profiling) ,  [certificate](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/SQL_portfolio/UCDavis_SQL_certificate_assignment_Izabela_Rokita/Coursera_SQL_Data_Science_Certificate_Izabela_Rokita.pdf)
  - Business Intelligence Persona EDA [SQL altering / joining tables](https://www.kaggle.com/code/izzierider/business-intelligence-persona-eda-tableau-sql#Step-4---Data-Blending-using-SQL-(MySQL))
-### 2. Python portfolio:
-#### Kaggle projects:
+
+
+## 2. Python portfolio:
+### Kaggle projects:
 - X_Education Exploratory Data Analysis, identifying geolocalization of leads [CASE 1](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/Python_portfolio/Kaggle/X_Education_EDA/x-education-case1.ipynb),
-- Business Intelligence Persona EDA [Data Cleaning, Data Engineering, ETL, Tableau, SQL](https://www.kaggle.com/code/izzierider/business-intelligence-persona-eda-tableau-sql)
-#### Data Science Course projects:
+- Business Intelligence Persona EDA [Data Cleaning, Data Engineering, ETL, Tableau, SQL](Python_portfolio/Kaggle/X_Education_EDA/Identifying_target_personas_based_on_data.ipynb)
+### Data Science Course projects:
 - Amazon Sales DataSet Data Analysis, Data Visualization and Machine Learning Regression Model building [LINK](Python_portfolio/Data_Science_bootcamp/amazon_sales_Data_Analysis_group_project.ipynb)
+
+  
 ### 3. Data Visualization portfolio:
 #### Tableau:
 - X_Education CASE 1 Data Visualization using Tableau Public [LINK](https://public.tableau.com/views/X_Education_CASE1_Visualizations/X_Education_CASE1_Visualizations?:showVizHome=no)
