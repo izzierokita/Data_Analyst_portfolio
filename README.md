@@ -14,7 +14,8 @@ Where I shine the most are the tech B2B and SaaS sectors. I love being up to dat
  - Business Intelligence Persona EDA [SQL altering / joining tables](https://www.kaggle.com/code/izzierider/business-intelligence-persona-eda-tableau-sql#Step-4---Data-Blending-using-SQL-(MySQL))
 ### 2. Python portfolio:
 #### Kaggle projects:
-- X_Education Exploratory Data Analysis [CASE 1](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/Python_portfolio/Kaggle/X_Education_EDA/x-education-case1.ipynb), [CASE 2](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/Python_portfolio/Kaggle/X_Education_EDA/Identifying_target_personas_based_on_data.ipynb), CASE 3 (TBD)
+- X_Education Exploratory Data Analysis, identifying geolocalization of leads [CASE 1](https://github.com/izzierokita/Data_Analyst_portfolio/blob/Portfolio_detalis/Python_portfolio/Kaggle/X_Education_EDA/x-education-case1.ipynb),
+- Business Intelligence Persona EDA [Data Cleaning, Data Engineering, ETL, Tableau, SQL](https://www.kaggle.com/code/izzierider/business-intelligence-persona-eda-tableau-sql)
 #### Data Science Course projects:
 - Amazon Sales DataSet Data Analysis, Data Visualization and Machine Learning Regression Model building [LINK](Python_portfolio/Data_Science_bootcamp/amazon_sales_Data_Analysis_group_project.ipynb)
 ### 3. Data Visualization portfolio:
