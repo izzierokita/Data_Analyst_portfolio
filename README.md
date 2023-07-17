@@ -24,8 +24,8 @@ Where I shine the most are the tech B2B and SaaS sectors. I love being up to dat
 - Amazon Sales DataSet Data Analysis, Data Visualization and Machine Learning Regression Model building [LINK](Python_portfolio/Data_Science_bootcamp/amazon_sales_Data_Analysis_group_project.ipynb)
 
   
-### 3. Data Visualization portfolio:
-#### Tableau:
+## 3. Data Visualization portfolio:
+### Tableau:
 - X_Education CASE 1 Data Visualization using Tableau Public [LINK](https://public.tableau.com/views/X_Education_CASE1_Visualizations/X_Education_CASE1_Visualizations?:showVizHome=no)
 - Business Intelligence Persona EDA [LINK 1](https://public.tableau.com/app/profile/izabela.rokita/viz/BusinessIntelligencePersonaEDATableauSQL/ConvertedLeadspart1) [LINK2](https://public.tableau.com/app/profile/izabela.rokita/viz/BusinessIntelligencePersonaEDATableauSQLpart2/ConvertedLeadspart2) [LINK3](https://public.tableau.com/app/profile/izabela.rokita/viz/BusinessIntelligencePersonaEDATableauSQLpart3/ConvertedLeadspart1) [LINK4](https://public.tableau.com/app/profile/izabela.rokita/viz/BusinessIntelligencePersonaEDATableauSQLpart4/ConvertedLeadspart2)
 
