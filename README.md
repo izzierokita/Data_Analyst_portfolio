@@ -2,7 +2,7 @@
 
 I'm a former Digital Marketing Specialist, with over 5 years of professional work experience. I've spent most of my career inside fast-paced international companies (Aptiv, Comarch, Heineken, SoftwareMill, etc.), where I've built many solutions from scratch and evaluated their effectiveness based on data. 
 
-Right now I'm on an Intentional Career Break expanding my skills in the field of Business Intelligence, Data Visualization, and Data Analysis. Career-wise, I want to solely focus on harnessing my technical, analytical and communication skills, to equip my future company stakeholders with valuable insights. 
+Right now I'm on an Intentional Career Break expanding my skills in the field of Data Engineering, Data Analysis, Data Visualization and Business Intelligence. Career-wise, I want to solely focus on harnessing my technical, analytical and communication skills, to equip my future company stakeholders with valuable insights. 
 
 Where I shine the most are the tech B2B and SaaS sectors. I love being up to date with the newest technology trends, constantly developing myself, and looking for new ways, to ensure my digital projects' success.
 
